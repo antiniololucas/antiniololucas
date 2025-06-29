@@ -1,15 +1,6 @@
 [
 <h1 align="center"><b>Hi , I'm Antiñolo Lucas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
-
-<br>
-
-
 <br>
 
 -A passionate technology enthusiast and Systems Engineering student <br>
@@ -17,7 +8,7 @@
 -Improving Front-end skills with React <br>
 -1+ year of professional experience
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -27,7 +18,6 @@
 <p align="center">
 
 - **Technologys**:
-
      
     ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
     ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -38,8 +28,8 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br>
-  - **DataBases**:
+
+- **Database**:
    
    
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -56,13 +46,4 @@
 
 <br>
 
-</p>
 
-<br>
-<br>
-
------
-
-<br>
-
-](url)
