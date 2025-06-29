@@ -12,9 +12,9 @@
 
 <br>
 
--A passionate technology enthusiast and Systems Engineering student
--.NET Backend Developer
--Improving Front-end skills with React
+-A passionate technology enthusiast and Systems Engineering student <br>
+-.NET Backend Developer <br>
+-Improving Front-end skills with React <br>
 -1+ year of professional experience
 
 <br><br>
