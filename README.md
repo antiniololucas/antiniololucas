@@ -1,16 +1,19 @@
 <h1 align="center"><b>Hi , I'm Antiñolo Lucas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
-<div style="display:flex;flex-direction:row;">
--A passionate technology enthusiast and Systems Engineering student <br>
--.NET Backend Developer <br>
--Improving Front-end skills with React <br>
--1+ year of professional experience
-     
-<a target="_blank" >
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: center; justify-content: space-between; width: 100%; box-sizing: border-box; overflow: hidden;">
+  <div style="width: 50%; padding: 10px; box-sizing: border-box;">
+    - A passionate technology enthusiast and Systems Engineering student <br>
+    -.NET Backend Developer <br>
+    - Improving Front-end skills with React <br>
+    - 1+ year of professional experience
+  </div>
+  <div style="width: 50%; padding: 10px; box-sizing: border-box; text-align: center;">
+    <img style="max-width: 100%; height: auto;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    <br><br>
+    <img style="max-width: 100%; height: auto;" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </div>
 </div>
 
 
