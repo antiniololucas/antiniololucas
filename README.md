@@ -5,8 +5,7 @@
 <div style="display: flex; flex-direction: row; flex-wrap: nowrap; align-items: center; justify-content: space-between; width: 100%; box-sizing: border-box; overflow: hidden;">
   <div style="width: 50%; padding: 10px; box-sizing: border-box;">
     - A passionate technology enthusiast and Systems Engineering student <br>
-    -.NET Backend Developer <br>
-    - Improving Front-end skills with React <br>
+    - Fullstack .NET - React Developer <br>
     - 1+ year of professional experience
   </div>
   <div style="width: 50%; padding: 10px; box-sizing: border-box; text-align: center;">
