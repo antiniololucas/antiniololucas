@@ -6,7 +6,7 @@
   <div style="width: 50%; padding: 10px; box-sizing: border-box;">
     - A passionate technology enthusiast and Systems Engineering student <br>
     - Fullstack .NET - React Developer <br>
-    - 1+ year of professional experience
+    - 2+ year of professional experience
   </div>
   <div style="width: 50%; padding: 10px; box-sizing: border-box; text-align: center;">
     <img style="max-width: 100%; height: auto;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
